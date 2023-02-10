@@ -198,7 +198,7 @@ standard_value = Gold_Operation(22,2)
 print(gold1 >= standard_value)
 
 plt.plot(week)
-plt.xlabel("Day")
+plt.xlabel("Week")
 plt.ylabel("Amount")
 plt.title("Amount of gold mined this week")
 plt.show()
