@@ -1,0 +1,6 @@
+.env
+*.exe
+*.log
+build/
+develop-eggs/
+dist/
